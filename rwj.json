@@ -1,0 +1,16 @@
+{
+    "site_info":{
+        "site_id": "rwj",
+        "db_name": "rwjbh-db",
+        "has_facilities": false,
+        "facility_id" : "hl7-rwjbh", 
+        "exam_date_column_id" : "observationDate2",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "fillerOrderNumber1",
+        "procedure_code_column_id":"universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+
+}
+

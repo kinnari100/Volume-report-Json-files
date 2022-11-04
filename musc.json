@@ -1,0 +1,15 @@
+{
+    "site_info":{
+        "site_id": "musc",
+        "db_name": "musc_db",
+        "has_facilities": false,
+        "facility_id" : "hl7-musc", 
+        "exam_date_column_id" : "observationDate5",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "placerOrderNumber1",
+        "procedure_code_column_id":"universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+
+}

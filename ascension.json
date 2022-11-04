@@ -1,0 +1,21 @@
+
+{
+    "site_info":{
+        "site_id": "ascension",
+        "db_name": "ascension-db",
+        "has_facilities": true
+    },
+
+"facility_info":[
+{"facility_id": "hl7-ascension-wisconsinglendalemilwaukee", "accession_column_id": "placerOrderNumber1", "exam_date_column_id": "observationDate6", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-michigandetroit", "accession_column_id": "fillerOrderNumber2", "exam_date_column_id": "observationDate2", "mrn_column_id": "patientIdentifier1", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-stthomas", "accession_column_id": "fillerOrderNumber2", "exam_date_column_id": "observationDate5", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-oklahomtulsa", "accession_column_id": "fillerOrderNumber2", "exam_date_column_id": "observationDate2", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-newyorkbinghamton", "accession_column_id": "fillerOrderNumber2", "exam_date_column_id": "observationDate5", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-alabamabirmingham", "accession_column_id": "placerOrderNumber1", "exam_date_column_id": "observationDate2", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-evansville", "accession_column_id": "fillerOrderNumber1", "exam_date_column_id": "observationDate5", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"},
+{"facility_id": "hl7-ascension-indianapolisindiana", "accession_column_id": "fillerOrderNumber1", "exam_date_column_id": "observationDate2", "mrn_column_id": "patientIdentifier1", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier1"},
+{"facility_id": "hl7-ascension-floridajacksonville", "accession_column_id": "fillerOrderNumber1", "exam_date_column_id": "observationDate2", "mrn_column_id": "patientIdentifier2", "procedure_code_column_id": "universalServiceIdentifier1", "procedure_desc_column_id": "universalServiceIdentifier2"}
+    
+    ]
+}

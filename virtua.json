@@ -1,0 +1,15 @@
+{
+    "site_info":{
+        "site_id": "virtua",
+        "db_name": "virtua-db",
+        "has_facilities": false,
+        "facility_id" : "hl7-virtua", 
+        "exam_date_column_id" : "observationDate5",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "fillerOrderNumber1",
+        "procedure_code_column_id":"universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+}
+

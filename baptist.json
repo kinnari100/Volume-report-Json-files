@@ -1,0 +1,12 @@
+{
+    "site_info":{
+        "site_id": "baptist",
+        "db_name": "baptist-db",
+        "has_facilities": false,
+        "facility_id": "hl7-baptist",
+        "accession_column_id": "fillerOrderNumber1", 
+        "exam_date_column_id": "observationDate5",
+        "mrn_column_id": "patientIdentifier2",
+        "procedure_code_column_id": "universalServiceIdentifier1",
+        "procedure_desc_column_id": "universalServiceIdentifier2"}
+}

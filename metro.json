@@ -1,0 +1,15 @@
+{
+    "site_info":{
+        "site_id": "metro",
+        "db_name": "metro-db",
+        "has_facilities": false,
+        "facility_id" : "hl7-metro", 
+        "exam_date_column_id" : "observationDate1",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "fillerOrderNumber1",
+        "procedure_code_column_id":"universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+    
+}

@@ -1,0 +1,28 @@
+{
+    "site_info":{
+        "site_id": "centrastate",
+        "db_name": "centrastate-db",
+        "has_facilities": true
+    },
+    "facility_info":[
+    {
+        "facility_id" : "hl7-centrastate-princeton", 
+        "exam_date_column_id" : "observationDate5",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "fillerOrderNumber1",
+        "procedure_code_column_id": "universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    },
+
+  {
+        "facility_id" : "hl7-centrastate-main", 
+        "exam_date_column_id" : "observationDate2",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "placerOrderNumber1",
+        "procedure_code_column_id": "universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+    ]
+}

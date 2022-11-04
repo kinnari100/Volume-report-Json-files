@@ -1,0 +1,14 @@
+{
+    "site_info":{
+        "site_id": "community",
+        "db_name": "community-db",
+        "has_facilities": false,
+        "exam_date_column_id" : "observationDate2",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "placerOrderNumber1",
+        "procedure_code_column_id": "universalServiceIdentifier1",
+        "procedure_desc_column_id" : "universalServiceIdentifier2"
+
+    }
+
+}

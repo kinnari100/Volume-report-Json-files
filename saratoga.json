@@ -1,0 +1,15 @@
+
+{
+    "site_info":{
+        "site_id": "saratoga",
+        "db_name": "saratoga-db",
+        "has_facilities": false,
+        "facility_id" : "hl7-saratoga", 
+        "exam_date_column_id" : "observationDate2",
+        "mrn_column_id" : "patientIdentifier2",
+        "accession_column_id" : "placerOrderNumber1",
+        "procedure_code_column_id":"universalServiceIdentifier2",
+        "procedure_desc_column_id" : "universalServiceIdentifier3"
+
+    }
+}
